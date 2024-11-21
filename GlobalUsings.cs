@@ -1,0 +1,11 @@
+﻿global using IService.Base;
+global using Mapster;
+global using Microsoft.AspNetCore.Authorization;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.Extensions.Options;
+global using Model.Domain;
+global using Model.Entites;
+global using Model.Enums.Common;
+global using Model.Result;
+global using SqlSugar;
+global using Utils;
